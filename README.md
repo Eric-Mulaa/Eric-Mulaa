@@ -18,9 +18,9 @@ Here are some projects I'm proud of:
 
 ## Connect with Me
 Let's connect and collaborate:
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your LinkedIn Profile](link-to-LinkedIn)
-- 🐦 Twitter: [@YourTwitterHandle](link-to-Twitter)
+- 📧 Email: mutisyamulaa@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/eric-mulaa-628b75237/
+- 🐦 Twitter: https://twitter.com/EricMulaa
 
 ## Fun Fact
 I believe that data has stories to tell, and I'm here to decipher them!
