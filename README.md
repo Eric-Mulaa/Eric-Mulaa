@@ -18,12 +18,6 @@ I'm a passionate Data Analyst and Data Scientist with a strong background in Mac
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eric-mulaa&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-mulaa&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## My Projects
-Here are some projects I'm proud of:
-- 📈 [Project 1](link-to-project1): Brief description of the project.
-- 📊 [Project 2](link-to-project2): Brief description of the project.
-- 🤖 [Project 3](link-to-project3): Brief description of the project.
-
 ## Connect with Me
 Let's connect and collaborate:
 - 📧 Email: mutisyamulaa@gmail.com
