@@ -27,10 +27,14 @@ Here are some projects I'm proud of:
 ## Connect with Me
 Let's connect and collaborate:
 - 📧 Email: mutisyamulaa@gmail.com
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Eric Mulaa)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mutisyamulaa)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Eric Mulaa) 
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/eric-mulaa-628b75237/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 
+<a href="https://twitter.com/https://twitter.com/EricMulaa" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/https://www.kaggle.com/ericmutisya" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 
 ## Fun Fact
 I believe that data has stories to tell, and I'm here to decipher them!
